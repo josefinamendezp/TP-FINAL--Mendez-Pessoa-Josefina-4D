@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obra inspirada en Violetta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>El mundo de TINI</h1>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tini%20(2024).png" alt="Foto de Tini">
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="obra-violetta.html">Obra inspirada en Violetta</a></li>
+            <li><a href="clases-de-canto.html">Clases particulares de canto</a></li>
+            <li><a href="un-dia-con-tini.html">Un día artístico con Tini</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Obra inspirada en Violetta</h2>
+            <p>Una experiencia para compartir con otras personas y aprender sobre actuación, baile y música.</p>
+
+            <h3>La historia de Violetta</h3>
+            <p>En esta actividad grupal se puede preparar una pequeña obra inspirada en el universo de Violetta. Cada integrante puede tener un personaje y participar de diferentes escenas.</p>
+            <img src="https://www.google.com/imgres?q=tini%20en%20violeta%20de%20chica&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fmartina-stoessel-tini%2Fimages%2F4%2F44%2FVIoletta_1.png%2Frevision%2Flatest%2Fscale-to-width-down%2F250%3Fcb%3D20171109203957&imgrefurl=https%3A%2F%2Fmartina-stoessel-tini.fandom.com%2Fwiki%2FVioletta&docid=3hhK5EDkXteLzM&tbnid=iMUJO5kflmGPgM&vet=12ahUKEwivyKaK15KYAxX7HrkGHRp0H4gQnPAOegUI4wIQAA..i&w=250&h=361&hcb=2&ved=2ahUKEwivyKaK15KYAxX7HrkGHRp0H4gQnPAOegUI4wIQAA" alt="Tini en sus comienzos">
+
+            <h3>Actuación</h3>
+            <p>Los participantes pueden practicar diferentes escenas y aprender a expresarse frente a otras personas. También pueden trabajar la confianza y la expresión corporal.</p>
+            <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tini%20Stoessel%202016.jpg" alt="Tini durante Violetta">
+
+            <h3>Baile y coreografías</h3>
+            <p>Otra parte de la actividad consiste en preparar coreografías para acompañar las canciones. La idea es trabajar en equipo y aprender los pasos entre todos.</p>
+            <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tini%20(2021)%2002.png" alt="Tini cantando">
+
+            <h3>Presentación final</h3>
+            <p>Al finalizar, el grupo puede presentar la obra frente a familiares y amigos. De esta manera se combinan actuación, música y baile en una misma presentación.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Trabajo práctico final - Desarrollo web - Creado por Mendez Pessoa Josefina</p>
+    </footer>
+</body>
+</html>

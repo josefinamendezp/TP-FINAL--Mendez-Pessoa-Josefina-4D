@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clases particulares de canto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>El mundo de TINI</h1>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tini%20(2024).png" alt="Foto de Tini">
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="obra-violetta.html">Obra inspirada en Violetta</a></li>
+            <li><a href="clases-de-canto.html">Clases particulares de canto</a></li>
+            <li><a href="un-dia-con-tini.html">Un día artístico con Tini</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Clases particulares de canto</h2>
+            <p>Una propuesta para conocer mejor la voz y practicar diferentes técnicas de canto.</p>
+
+            <h3>Conocer tu voz</h3>
+            <p>En una clase individual se puede comenzar con ejercicios sencillos para conocer la propia voz y aprender a utilizarla de una manera cómoda.</p>
+            <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tini%20(2021)%2001.png" alt="Tini cantando">
+
+            <h3>Respiración</h3>
+            <p>La respiración es importante al cantar. Se pueden practicar diferentes ejercicios para aprender a controlar el aire mientras se canta.</p>
+            <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tini%20(2021)%2002.png" alt="Tini durante una presentación">
+
+            <h3>Interpretación</h3>
+            <p>Además de cantar las notas correctamente, también es importante transmitir emociones. En estas clases se puede trabajar la interpretación de diferentes canciones.</p>
+
+            <h3>Elegir una canción</h3>
+            <p>Cada persona puede elegir una canción de Tini que le guste y trabajarla de acuerdo con su nivel. Así puede practicar tanto la voz como la interpretación.</p>
+
+            <h3>Preparación para cantar frente a otros</h3>
+            <p>Finalmente, se puede practicar cómo cantar frente a otras personas para ganar confianza y sentirse más cómodo al momento de presentarse.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Trabajo práctico final - Desarrollo web - Creado por Mendez Pessoa Josefina</p>
+    </footer>
+</body>
+</html>
